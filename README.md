@@ -14,10 +14,9 @@ When you have completed the assignment, respond with the link to your forked pro
 Interview focus of each of these are as follows:
 
 ## ![Question 1](Question_1.ipynb)
-* Algorithmic abstraction and dynamism:
-    * How can you write a dynamic plotting code that can take into account the changing X,Y,Z faces and intersecting line co-ordinates
-* Algoritmic Dynamism
-* 
+* Algorithmic abstraction
+* Algorithmic dynamism
+* Depth perception & spatial projection
 
 
 
