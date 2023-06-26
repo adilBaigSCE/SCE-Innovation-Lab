@@ -1,0 +1,19 @@
+Extensions installed on WSL: Ubuntu:
+christian-kohler.npm-intellisense@1.4.4
+dbaeumer.vscode-eslint@2.4.2
+GitHub.copilot@1.92.177
+kisstkondoros.vscode-codemetrics@1.26.1
+mechatroner.rainbow-csv@3.7.0
+ms-azuretools.vscode-azurefunctions@1.11.0
+ms-azuretools.vscode-azureresourcegroups@0.7.5
+ms-python.python@2023.10.1
+ms-python.vscode-pylance@2023.6.30
+ms-toolsai.jupyter@2023.5.1101742258
+ms-toolsai.jupyter-keymap@1.1.2
+ms-toolsai.jupyter-renderers@1.0.15
+ms-toolsai.vscode-jupyter-cell-tags@0.1.8
+ms-toolsai.vscode-jupyter-slideshow@0.1.5
+ms-vscode.azure-account@0.11.5
+ms-vsliveshare.vsliveshare@1.0.5873
+nodesource.vscode-for-node-js-development-pack@2.0.1
+wix.vscode-import-cost@3.3.0
