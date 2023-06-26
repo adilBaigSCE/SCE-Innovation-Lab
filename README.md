@@ -1,5 +1,5 @@
-![Southern California Edison](/assets/images/edison_logo.png)
-# Edison Interview - Senior Specialist Data Engineer
+![Southern California Edison](/assets/images/donuts_and_data.png)
+# SCE - Innovation and excellence Labs
 
 ## Instructions
 
@@ -18,6 +18,8 @@ Interview focus of each of these are as follows:
 * Algorithmic dynamism
 * Depth perception & spatial projection
 
+## ![Question 2](Question_2.ipynb)
+* Advanced pyspark
 
 
 
