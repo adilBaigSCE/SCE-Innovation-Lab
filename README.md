@@ -16,6 +16,14 @@ When you have completed the assignment, respond with the link to your forked pro
 
 Each of these challenges focus of following strengths of a software / data engineer:
 
+### Pre-requisites
+
+if you are using VS code on Debian / Ubuntu or vs code on WSL on windows, the following instructions would help you setup the environment faster
+```
+cd {project-root}
+bash set_local_env.bash
+```
+
 ## [Question 1](Question_1.ipynb)
 * Algorithmic abstraction
 * Algorithmic dynamism
