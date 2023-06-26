@@ -11,7 +11,7 @@ Please fork out of this "main" branch into your project space OR commit into a n
 When you have completed the assignment, respond with the link to your forked project or synced branch with your your contact information to reach out to including __email__, __phone__, __linkedIn url__
 </em>
 
-Interview focus of each of these are as follows:
+Each of these challenges focus of following strengths of a software / data engineer:
 
 ## ![Question 1](Question_1.ipynb)
 * Algorithmic abstraction
@@ -21,6 +21,9 @@ Interview focus of each of these are as follows:
 ## ![Question 2](Question_2.ipynb)
 * Advanced pyspark
 
+## ![Question 3](Question_3.ipynb)
+* Architectural paradigm
+* OOPS relational and class designing
 
 
 
