@@ -24,6 +24,10 @@ cd {project-root}
 bash set_local_env.bash
 ```
 
+if you are not using either wsl on windows or ubuntu, get inspired and follow the script manually to install the requirements found in following files, in your respective OS / environment:
+* [vs code requirements](requirements/vscode_requirements.txt)
+* [pip python3 requirements](requirements/pip_requirements.txt)
+
 ## [Question 1](Question_1.ipynb)
 * Algorithmic abstraction
 * Algorithmic dynamism
