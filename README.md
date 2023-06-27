@@ -9,7 +9,7 @@ NOTE: For all of these questions, you are free to use any and all resources avai
 
 Provide a link to all the blogs / post / stackoverflow you went through to come up with this solution. If you used ChatGPT, please provide with question you posed to the LLM!
 
-Please fork out of this "main" branch into your project space OR commit into a new branch. Publish back to "main" is prohibited!
+Please fork out of this "main" branch into your project space. Publish back to "main" is prohibited!
 
 When you have completed the assignment, respond with the link to your forked project or synced branch with your your contact information to reach out to including __email__, __phone__, __linkedIn url__
 </em>
