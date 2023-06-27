@@ -14,7 +14,6 @@ Please fork out of this "main" branch into your project space OR commit into a n
 When you have completed the assignment, respond with the link to your forked project or synced branch with your your contact information to reach out to including __email__, __phone__, __linkedIn url__
 </em>
 
-Each of these challenges focus of following strengths of a software / data engineer:
 
 ### Pre-requisites
 
@@ -27,6 +26,8 @@ bash set_local_env.bash
 if you are not using either wsl on windows or ubuntu, get inspired and follow the script manually to install the requirements found in following files, in your respective OS / environment:
 * [vs code requirements](requirements/vscode_requirements.txt)
 * [pip python3 requirements](requirements/pip_requirements.txt)
+
+Each of these challenges focus of following strengths of a software / data engineer:
 
 ## [Question 1](Question_1.ipynb)
 * Algorithmic abstraction
