@@ -18,7 +18,7 @@ if you are not using either wsl on windows or ubuntu, get inspired and follow th
 <em>
 NOTE: For all of these questions, you are free to use any and all resources available to you including but not limited to (<strong>stackoverflow</strong>, <strong>google</strong>, <strong>python coding blogs</strong>, even <strong>ChatGTP-4</strong> if you have to). 
 
-Provide a link to all the blogs / post / stackoverflow you went through to come up with this solution. If you used ChatGPT, please provide with question you posed to the LLM!
+Provide links to all the blogs / post / stackoverflow you went through to come up with this solution in each questions' <strong>*_reference_links.txt</strong> notepads. If you used ChatGPT, please provide with question you posed to the LLM!
 
 Please fork out of this "main" branch into your project space. Publish back to "main" is prohibited!
 
